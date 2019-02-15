@@ -1,0 +1,18 @@
+@import url("//unpkg.com/element-ui@2.5.4/lib/theme-chalk/index.css");
+h3 {
+    margin: 40px 0 0;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  a {
+    color: #42b983;
+  }
+  .confirmation{
+    text-align: left;
+  }
